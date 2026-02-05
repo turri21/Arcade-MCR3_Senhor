@@ -113,11 +113,11 @@ module emu
 	inout   [3:0] ADC_BUS,
 
 	//SD-SPI
-	output        SD_SCK,
-	output        SD_MOSI,
-	input         SD_MISO,
-	output        SD_CS,
-	input         SD_CD,
+//	output        SD_SCK,
+//	output        SD_MOSI,
+//	input         SD_MISO,
+//	output        SD_CS,
+//	input         SD_CD,
 
 	//High latency DDR3 RAM interface
 	//Use for non-critical time purposes
